@@ -1,0 +1,49 @@
+[
+	{"title": "Top 10 Cloud Service Providers", 
+	"content": "My first Amazon Web Services (AWS) has 26 regions and 84 availability zones !\r\n\r\nThis is exciting!", 
+	"user_id": 1
+	}, 
+	
+	{"title": "Cloud Service Providers Market Share", 
+	"content": "The largest share: AWS at 34%, Azure at 22%, GCP at 9.5,...", 
+	"user_id": 2}, 
+	
+	{"title": "Top 5 Programming Lanaguages", 
+	"content": "My first Python, Rust, JavaScripts, Java, C++, C#,...", 
+	"user_id": 1
+	},
+	
+	{"title": "Top 10 Developed Countries in the World", 
+	"content": "The top most developed countries in the word are: 1. Norway, 2. Switzerland, 3 Ireland, 4 Germany !\r\n\r\nThis is exciting!", 
+	"user_id": 2
+	},
+	
+	{"title": "Top 5 Computer Cience Courses 2022", 
+	"content": "My first, 1. Data Analytics,  Blockchain, IoT Devices Programming C !\r\n\r\nThis is exciting!", 
+	"user_id": 1
+	},
+	
+	{"title": "Blog Post Web API Framework", 
+	"content": "Build and deploy API application framework...\r\n\r\nThis is exciting!", 
+	"user_id": 1
+	},
+	{"title": "Blog Post Python FastAPI Framework", 
+	"content": "Build and deploy Python Fast API development framework!\r\n\r\nThis is exciting!", 
+	"user_id": 2
+	},
+	{"title": "Blog Post 3 Coolest Web Framework", 
+	"content": "Third Post Content! Python WebDAV Django Framework... !\r\n\r\nThis is exciting!", 
+	"user_id": 1
+	},
+	{"title": "Blog 2 Post Python Django WebApp", 
+	"content": "Second Post Content! Python Programming in Django framework is just awesome...!\r\n\r\nThis is exciting!", 
+	"user_id": 1
+	},
+	{"title": "Top Beaches in USA", 
+	"content": "USA has the most awesome beaches in Florida...!\r\n\r\nThis is exciting!", 
+	"user_id": 1
+	
+
+]
+
+
